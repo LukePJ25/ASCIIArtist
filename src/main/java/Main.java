@@ -4,8 +4,6 @@ import javafx.scene.image.Image;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
-import java.util.Objects;
-
 public class Main extends Application {
 
     @Override
